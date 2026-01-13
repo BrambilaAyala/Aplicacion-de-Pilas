@@ -39,3 +39,27 @@
 
 # debug information files
 *.dwo
+
+# ===== CARPETAS DE BUILD =====
+bin/
+obj/
+build/
+Build/
+debug/
+release/
+Debug/
+Release/
+
+# ===== CODEBLOCKS =====
+*.layout
+*.depend
+*.cbTemp
+*.workspace
+*.cbproj
+
+# ===== WINDOWS =====
+Thumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.bak
