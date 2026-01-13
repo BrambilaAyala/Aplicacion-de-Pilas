@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1678164821 source:c:\users\leonardo\onedrive\documentos\programacion\verdaderaaplicacion\main.cpp
+	"PilaAplicacion.h"
+	"Expresion.h"
+
+1678162497 c:\users\leonardo\onedrive\documentos\programacion\verdaderaaplicacion\pilaaplicacion.h
+	<iostream>
+	<exception>
+	<chrono>
+	<cstdlib>
+	<iomanip>
+	<cmath>
+	<ctime>
+	<stdexcept>
+	"PilaAplicacion.tpp"
+
+1678128668 c:\users\leonardo\onedrive\documentos\programacion\verdaderaaplicacion\pilaaplicacion.tpp
+	"PilaAplicacion.h"
+	"Expresion.h"
+
+1678165994 c:\users\leonardo\onedrive\documentos\programacion\verdaderaaplicacion\expresion.h
+	<string>
+	"Expresion.tpp"
+
+1678166310 c:\users\leonardo\onedrive\documentos\programacion\verdaderaaplicacion\expresion.tpp
+	"PilaAplicacion.h"
+	"Expresion.h"
+
